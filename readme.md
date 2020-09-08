@@ -1,6 +1,6 @@
 Sell your car:
 
-https://t5eu1.csb.app/
+https://csb-t5eu1.netlify.app/
 
 
 - React + Redux + Firebase + LocalStorage
